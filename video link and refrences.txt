@@ -1,0 +1,11 @@
+video link:
+https://drive.google.com/drive/folders/1gWZMnhXr9tV5RvJ8FpS5CPwu5xFXlcUs?usp=sharing
+
+refrences (uploaded to github):
+https://www.geeksforgeeks.org/stack-data-structure/
+https://link.springer.com/content/pdf/10.1007/978-1-4613-9323-8_16.pdf
+https://brenden.github.io/ukkonen-animation/
+https://visualizing-algorithms.vercel.app/dfs
+
+github link:
+https://github.com/omr-khtb/Algorithms-suffix-prefix-problem
